@@ -65,4 +65,6 @@ This will open the app in your default browser.
 ## 👩‍💻 Author
 **Priya Chaudhuri**
 
-Feel free to reach out or contribute to the project!
+This project was developed as a personal initiative to explore generative AI applications and, quite frankly, because it was an enjoyable challenge to build!
+
+Feel free to explore, use, or contribute!
