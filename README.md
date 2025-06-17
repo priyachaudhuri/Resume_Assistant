@@ -53,7 +53,8 @@ This will open the app in your default browser.
    - **Latest Position Held: Business Analyst**
    - **Skills: SQL, Tableau, Excel, Word, PowerPoint**
    - **Resume Summary: A general data analyst profile**
-- Want to adjust the tone, add specific examples, or align it with your industry? Go ahead and tailor the prompt to your needs. You can easily customize the cover letter template inside the generate_cover_letter_gemini() function in resume_assistant.py.
+- You can easily customize the cover letter template inside the generate_cover_letter_gemini() function in resume_assistant.py.
+- Want to adjust the tone, add specific examples, or align it with your industry? Go ahead and tailor the prompt to your needs.
 
 ---
 ## ⚠️ Notes
