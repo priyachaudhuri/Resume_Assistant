@@ -65,6 +65,6 @@ This will open the app in your default browser.
 ## 👩‍💻 Author
 **Priya Chaudhuri**
 
-This project was developed as a personal initiative to explore generative AI applications and, quite frankly, because it was an enjoyable challenge to build!
+This project was developed as a personal initiative to explore generative AI applications and, quite frankly, because I found it exciting to build and experiment with MANUS AI!
 
 Feel free to explore, use, or contribute!
